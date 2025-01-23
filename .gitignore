@@ -1,0 +1,12 @@
+# Ignore savegame files
+savegame.dat
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE-specific files (if using IntelliJ, Eclipse, etc.)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
